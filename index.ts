@@ -76,6 +76,6 @@ app.post(
 );
 
 export default {
-    port: 4000,
+    port: 4002,
     fetch: app.fetch,
 };
